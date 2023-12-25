@@ -72,7 +72,7 @@ Follow these steps to get started with EnvGAN:
 1. **Installation**: Clone the repository and install the necessary dependencies.
 
    ```bash
-   git clone https://github.com/your-username/EnvGAN.git
+   git clone https://github.com/smn06/EnvGAN.git
    cd EnvGAN
    pip install -r requirements.txt
    ```
